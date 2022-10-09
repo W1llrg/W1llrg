@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @W1llrg
 - 👀 I’m interested in music, video/photo editing and coding 
 - 🌱 I’m currently learning Java, Javascript, PHP and Python
-- 💞️ I’m currently collaborating on the Eldertale project with @RPZMicroOndes
+- 💞️ I’m currently collaborating on the Eldertale project with @RPZDesMicroOndes
 - 📫 How to reach me >> will.ragueneau@gmail.com / Willrg#8445 on Discord
 
 <!---
